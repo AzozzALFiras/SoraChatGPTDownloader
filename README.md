@@ -31,13 +31,8 @@ A PHP class for downloading videos from ChatGPT's Sora video generation platform
 
 ## 🚀 Installation
 
-### Option 1: Composer (Recommended)
 
-```bash
-composer require azozz/sora-chatgpt-downloader
-```
-
-### Option 2: Manual Installation
+### Option 1: Manual Installation
 
 1. Clone the repository:
 ```bash
@@ -49,7 +44,7 @@ git clone https://github.com/AzozzALFiras/SoraChatGPTDownloader.git
 require_once 'path/to/SoraChatGPTClass.php';
 ```
 
-### Option 3: Direct Download
+### Option 2: Direct Download
 
 Download the `SoraChatGPTClass.php` file and include it in your project.
 
